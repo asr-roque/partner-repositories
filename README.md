@@ -12,6 +12,5 @@ https://github.com/regra-uri/
 - Citation: Castro, Rafael Z. ROQUE, A. S. Embedded System for Recording and Controlling Hand Hygiene in Healthcare Environments. In Brazilian Conference on Automatics (Automation and Informatics) - CBA, Rio de Janeiro, RJ, 2024. https://arxiv.org/abs/2505.01576
 
 *** Eletrocao Project *** 
-Bruno Kuhn Fernandes
-https://github.com/BrunokuhnFernandes/Eletrocao/
-Paper reference: as soon as possible.
+- Bruno Kuhn Fernandes, https://github.com/BrunokuhnFernandes/Eletrocao/
+- Citation: as soon as possible.
