@@ -8,10 +8,8 @@ https://github.com/regra-uri/
 
 # Works by supervised undergraduate thesis projects.
 *** Hand Hygiene Monitoring Project ***
-Rafael Zavalik Castro
-https://github.com/zavalik1986/Torneiraiot/
-Paper reference: https://arxiv.org/abs/2505.01576
-Castro, Rafael Z. ROQUE, A. S. Embedded System for Recording and Controlling Hand Hygiene in Healthcare Environments. In Brazilian Conference on Automatics (Automation and Informatics) - CBA, Rio de Janeiro, RJ, 2024.
+- Rafael Zavalik Castro, https://github.com/zavalik1986/Torneiraiot/
+- Citation: Castro, Rafael Z. ROQUE, A. S. Embedded System for Recording and Controlling Hand Hygiene in Healthcare Environments. In Brazilian Conference on Automatics (Automation and Informatics) - CBA, Rio de Janeiro, RJ, 2024. https://arxiv.org/abs/2505.01576
 
 *** Eletrocao Project *** 
 Bruno Kuhn Fernandes
